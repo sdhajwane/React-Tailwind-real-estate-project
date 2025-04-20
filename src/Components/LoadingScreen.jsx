@@ -1,3 +1,4 @@
+import React from "react";
 // components/LoadingScreen.jsx
 export default function LoadingScreen() {
     return (
